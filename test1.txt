@@ -1,3 +1,4 @@
 this is test 1
 this is test secound line
 this is tes1 thrid line
+logo alingment is centered
